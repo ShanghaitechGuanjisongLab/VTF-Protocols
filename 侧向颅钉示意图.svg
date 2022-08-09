@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="161.31mm" height="210.26mm" version="1.1" viewBox="0 0 161.31 210.26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(-19.408 -53.201)">
+  <path d="m100 63.333c-6.6666-6.6665-3.3332-9.9998 3.72e-4 -9.9997 3.3336 1.32e-4 6.6667 3.3332-3.31e-4 10-6.667 6.6668-23.333 16.666-38.333 45-15 28.333-28.333 74.999-21.666 106.67s33.333 48.333 60 48.333c26.667-1.2e-4 53.332-16.666 59.999-48.334 6.6669-31.667-6.6656-78.331-21.666-106.67-15-28.334-31.667-38.334-38.334-45.001z" fill="none" stroke="#000" stroke-width=".26458px"/>
+  <path id="path457" d="m83.821 77.671-14.238-11.568" fill="none" stroke="#000" stroke-width=".26458px"/>
+  <path id="path459" d="m75.342 87.336-12.458-10.234" fill="none" stroke="#000" stroke-width=".26458px"/>
+  <path id="path461" d="m90.99 71.224-12.903-11.123" fill="none" stroke="#000" stroke-width=".26458px"/>
+  <use transform="matrix(-1 0 0 1 200.08 0)" xlink:href="#path461"/>
+  <use transform="matrix(-1 0 0 1 199.9 0)" xlink:href="#path457"/>
+  <use transform="matrix(-1 0 0 1 200.14 0)" xlink:href="#path459"/>
+  <g fill="none" stroke="#000" stroke-width=".26458px">
+   <path d="m100 120v100"/>
+   <path d="m70 170h60"/>
+   <path d="m60 220h80"/>
+  </g>
+  <path id="path560" d="m62.918 105.91a8.3374 8.3374 0 0 1-3.9864-7.4363 8.3374 8.3374 0 0 1 4.5459-7.1081 8.3374 8.3374 0 0 1 8.4226 0.4998" fill="none" stroke="#000" stroke-width=".26458"/>
+  <use transform="matrix(-1 0 0 1 200.09 0)" xlink:href="#path560"/>
+  <g id="g3110">
+   <path d="m19.541 185.03v21.394" fill="none" stroke="#000" stroke-width=".26458px"/>
+   <path d="m19.504 195.72h29.453" fill="none" stroke="#000" stroke-width=".26458px"/>
+  </g>
+  <use transform="matrix(-1 0 0 1 200.13 0)" xlink:href="#g3110"/>
+ </g>
+</svg>
