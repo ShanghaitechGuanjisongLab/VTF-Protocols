@@ -26,12 +26,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.6819304"
-     inkscape:cx="271.11704"
-     inkscape:cy="216.71527"
-     inkscape:window-width="1620"
-     inkscape:window-height="1010"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:cx="271.41432"
+     inkscape:cy="217.01255"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -238,30 +238,6 @@
        y="0"
        xlink:href="#g1490"
        id="use1492"
-       transform="translate(0,-7.9374999)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use1492"
-       id="use1494"
-       transform="translate(0,-7.9374998)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use1494"
-       id="use1496"
-       transform="translate(0,-7.9374999)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use1496"
-       id="use1498"
-       transform="translate(0,-7.9374999)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use1498"
-       id="use1500"
        transform="translate(0,-7.9374999)" />
     <use
        x="0"
@@ -491,5 +467,29 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 93.436965,158.34574 c 0.336191,0.0549 0.722569,-0.0203 1.008566,0.16475 0.224792,0.14545 0.247046,0.47539 0.357618,0.71924 0.456317,1.00635 0.304271,0.86582 0.847836,1.85235 0.27744,0.50354 0.603335,1.00784 0.944272,1.47465 0.128455,0.17588 0.249441,0.35889 0.397801,0.51834 0.162047,0.17417 0.876088,0.80421 1.100981,1.00453"
        id="path1709" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1490"
+       id="use255"
+       transform="translate(0,-15.874977)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1490"
+       id="use257"
+       transform="translate(0,-23.812477)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1490"
+       id="use259"
+       transform="translate(0,-31.749977)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1490"
+       id="use261"
+       transform="translate(0,-39.687477)" />
   </g>
 </svg>
