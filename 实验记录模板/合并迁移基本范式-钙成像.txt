@@ -51,12 +51,12 @@ Area Settings \ Zoom 可用于数字放大，如果发现图像放大倍数异�
 3.	将Slices设为2。
 这三个设置项相互关联且各有范围限制，如果一项设置会使得关联的另一项设置超出范围，这项设置就会失败。因此必须按照特定顺序设置才能回避这些范围限制。我们要拍间隔250㎛的两层，那么设置完成后Motor位置、Step Size 和End都应为250，Slices为2。
 点击Motor向上一层，然后PTZ向下一层，使得Motor位置变为0而PZT 变为250。因为实际的Z深度是 Motor Origin + Motor + PZT，所以此时镜头仍聚焦在5层的深度。现在再调节亮度参数，然后在 Bright Z 中Register。Bright Z 会将当前PZT记录为 Z Pos，因此必须通过上述操作将Motor位置转换为PZT才能被记录。
-将Series\LSM中的Time设为OFF，Z设为ON。找到Acquire面板，在Normal\LSM中，浏览设置输出目录和输出文件名（不设置扩展名，会自动添加.oir扩展名）。如果存在重名文件，不会发生覆盖，而是会自动添加编号。文件名格式：<鼠号>.<日期时间yyyyMMddHHmm>.Reference.<亮度参数>。如：`0030.202207171937.Reference.10%350V20%350V`。点击 Imaging \ LSM Start 完成拍摄
+将Series\LSM中的Time设为OFF，Z设为ON。找到Acquire面板，在Normal\LSM中，浏览设置输出目录和输出文件名（不设置扩展名，会自动添加.oir扩展名）。如果存在重名文件，不会发生覆盖，而是会自动添加编号。文件名格式：<鼠号>.<日期时间yyyyMMddHHmm>.Reference.<亮度参数>。如：`0030.202207171937.Reference.10%350V20%350V`。点击 Imaging \ LSM Start 完成拍摄。
 
 ## 正式开拍
 一般使用Resonant扫描仪拍摄动态图像。
 将Series\LSM中的Time设为ON。在 Time Lapse 中将Cycle设为采样时点数。如果拍摄前不确定要拍多久，可以设为最大值65535。
-在双光子辅助机上，运行Experiment_Client.mlx脚本，程序会提示确认，并显示当前日期时间。先不急确认。在双光子主机上，Normal\LSM中，将文件名设为：<鼠号>.<日期时间>.<会话名称>.<亮度参数>，其中日期时间字段设为与双光子辅助机MATLAB命令行中显示的日期时间相同。如：`0030.202207171937.BlueAudioWater.10%350V20%350V`
+在双光子辅助机上，运行Experiment_Client.mlx脚本，程序会提示确认，并显示当前日期时间。先不急确认。在双光子主机上，Normal\LSM中，将文件名设为：<鼠号>.<日期时间>.<会话名称>.<亮度参数>，其中日期时间字段设为与双光子辅助机MATLAB命令行中显示的日期时间相同。如：`0030.202207171937.LAWLwAw.10%350V20%350V`
 漏光测试。在成像过程中，涉及到蓝光闪光的，注意观察蓝光闪时，是否会影响拍摄，即出现漏光的现象。如果出现这种情况，应该调整幕布的位置，使得幕布遮挡住镜头不受蓝光干扰。
 点击 Imaging \ LSM Start 开始拍摄，随后在双光子辅助机上确认实验开始。实验进入自动运行阶段。
 动态图像拍摄中，可随时点击 Acquire \ Normal \ LSM Stop 停止拍摄。Live面板可选Tile子面板，同时查看荧光和电流检测各通道；也可选Single面板查看单个通道。
