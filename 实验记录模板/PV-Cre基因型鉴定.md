@@ -7,9 +7,9 @@ NaOH 2g/L ddH₂O、冰、TE Buffer (5m㏖ EDTA, 1m㏖ Tris, pH8.0)、PCR Mix、
 95℃水浴锅、振荡机、PCR仪、微波炉、凝胶模具、凝胶托盘、电泳仪、凝胶成像仪
 
 三种 PV-Cre 引物 10㏖/L ddH₂O（金唯智生产）序列：
-
-
-
+Wild type Forward: CCATTCCCTCATCCACAGAG
+Mutant Forward: GACGCAATCGTCCGATCC
+Common: CAAACAAACTGAACAGAAACTCAGG
 
 # 实验方法
 将样品与120㎕NaOH混合，95℃水浴20min。放冰上冷却1min，加 30㎕ TE Buffer，震荡混匀，简单离心，取上清作为模板，配 20㎕ PCR 体系：10㎕ PCR Mix，1㎕ 模板，PV-Cre 三种引物各1㎕（注意引物存储液可能是10倍浓度），6㎕双蒸水。放入PCR仪，开程序，以C++示意：
