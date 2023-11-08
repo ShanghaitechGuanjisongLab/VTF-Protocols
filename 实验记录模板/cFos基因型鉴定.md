@@ -6,7 +6,7 @@
 NaOH 2g/L ddH₂O、冰、TE Buffer (5m㏖ EDTA, 1m㏖ Tris, pH8.0)、PCR Mix、双蒸水、琼脂糖、GelGreen核酸染料、100kb DNA Ladder、TAE溶液
 95℃水浴锅、振荡机、PCR仪、微波炉、凝胶模具、凝胶托盘、电泳仪、凝胶成像仪
 
-三种 cFos-Cre 引物 10㏖/L ddH₂O（金唯智生产）序列：
+三种 cFos-Cre 引物 10μ㏖/L ddH₂O（金唯智生产）序列：
 公共前向: CACCAGTGTCTACCCCTGGA
 野生后向: CGGCTACACAAAGCCAAACT
 变异后向: CGCGCCTGAAGATATAGAAGA
