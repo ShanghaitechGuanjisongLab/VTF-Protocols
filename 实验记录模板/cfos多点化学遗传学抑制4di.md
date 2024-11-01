@@ -2,7 +2,7 @@
 实验目的：在学会后用cFos标记持续活动的神经元，迁移阶段抑制，观察迁移行为是否受到影响。
 
 # 实验材料
-安装有头部固定架的cFos-CreER小鼠，并在多脑区注射了pAAV-hSyn-DIO-hM4D(Gi)-mCherry-WPRE病毒，休息2周以上病毒表达。
+安装有头部固定架的cFos-CreER小鼠，并在多脑区注射了pAAV-hSyn-DIO-hM4D(Gi)-mCherry-WPRE病毒，休息2周以上病毒表达。对照组使用WT小鼠，其它相同。
 铝合金小鼠固定床（7號）、Arduino Mega 2560 开发板、蓝色LED灯（智生泰）、蠕动水泵、水管、小鼠灌胃针（servicebio）、杜邦线、触感电容、隔音黑箱、水瓶、3.3→12V继电器、usb免驱摄像头（JEQLO）、有源压电式蜂鸣器（RunesKee）、5㎎ 氯氮平N-氧化物（CNO，TargetMol）/8.3㎖ PBS 溶液、20㎎ Tamoxifen / ㎖ 玉米油溶液（ABCONE）、PBS溶液
 
 # 设备部署

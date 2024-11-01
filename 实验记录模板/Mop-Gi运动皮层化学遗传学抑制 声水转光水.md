@@ -2,7 +2,7 @@
 实验目的：在迁移阶段抑制多个脑区，观察迁移行为是否受到影响。
 
 # 实验材料
-安装有头部固定架的小鼠，并在多脑区注射了pAAV-hSyn-hM4D(Gi)-mCherry-WPRE病毒，休息3周以上病毒表达。
+安装有头部固定架的小鼠，并在多脑区注射了pAAV-hSyn-hM4D(Gi)-mCherry-WPRE病毒，休息3周以上病毒表达。对照组注射pAAV-hSyn-mCherry-WPRE病毒，其它相同。
 铝合金小鼠固定床（7號）、Arduino Mega 2560 开发板、蓝色LED灯（智生泰）、蠕动水泵、水管、小鼠灌胃针（servicebio）、杜邦线、触感电容、隔音黑箱、水瓶、3.3→12V继电器、usb免驱摄像头（JEQLO）、有源压电式蜂鸣器（RunesKee）、5㎎ 氯氮平N-氧化物（CNO，TargetMol）/8.3㎖ PBS 溶液、PBS溶液
 
 # 设备部署
